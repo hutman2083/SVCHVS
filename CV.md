@@ -28,3 +28,6 @@ I'm Student from Mogilev. Now studing in BRU on specialization ASOIR. I plays on
 ### Foreign Languages
 
 -English: Pre-Immediate (A2+)
+
+### My Avatar
+![mountains](https://pbs.twimg.com/media/EyE_F5WWgAAAH0j.jpg)
