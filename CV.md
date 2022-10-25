@@ -21,7 +21,6 @@ I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays o
 - MS SQL Server
 ### Code Example
 
-using System;
   public static class Paper
   {
     public static int Paperwork(int n, int m)
@@ -32,7 +31,6 @@ using System;
       return n*m;
     }
   }
-
 
 ### Cources and Training
 - ASPECT english school on level A2+
