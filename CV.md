@@ -12,6 +12,7 @@ VK:
 
 ### About Me
 I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays on quitar and trying to code some intersting projects. I will want to work in some Company and for this i trying learn some new languages just like C++ and JavaScript.
+
 ### Skills
 - C#
 - Java
@@ -19,15 +20,14 @@ I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays o
 - CSS
 - HTML5
 - MS SQL Server
-### Code Example
 
+### Code Example
   public static class Paper;
   {
     public static int Paperwork(int n, int m);
     {
       if (n < 0) n = 0;
       if (m < 0) m = 0;
-      
       return n*m;
     }
   }
@@ -36,7 +36,6 @@ I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays o
 - ASPECT english school on level A2+
 
 ### Foreign Languages
-
 -English: Pre-Immediate (A2+)
 
 ### My Avatar
