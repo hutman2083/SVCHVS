@@ -1,2 +1,2 @@
 # SVCHVS
-URl:https://hutman2083.github.io/SVCHVS/CV.html
+URlhttps://hutman2083.github.io/SVCHVS/CV.html
