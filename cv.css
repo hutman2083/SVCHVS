@@ -105,3 +105,19 @@ h6{
     margin-bottom: 40px;
 }
 
+footer{
+    text-align: center;
+}
+
+footer a{
+    font-size: 30px;
+}
+
+footer p{
+    font-size: 20px;
+    text-align: right;
+}
+
+.list{
+    font-size: 20px;
+}
