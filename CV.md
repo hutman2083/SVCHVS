@@ -22,6 +22,7 @@ I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays o
 - MS SQL Server
 
 ### Code Example
+```
   public static class Paper;
   {
     public static int Paperwork(int n, int m);
@@ -31,7 +32,7 @@ I'm Student from Mogilev. Now studying in BRU on specialization ASOIR. I plays o
       return n*m;
     }
   }
-
+```
 ### Cources and Training
 - ASPECT english school on level A2+
 
