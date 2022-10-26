@@ -1,0 +1,123 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+.block{
+    top: auto;
+    left: 0;
+    text-align: center;
+    width: 21cm;
+    height: 1000px;
+    margin: 0 auto;
+    background: linear-gradient(yellow,rgb(255, 4, 4));
+    border-radius: 5px;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.leftblock{
+    width: 300px;
+    height: 800px;
+    margin-bottom: 20px;
+    font-family: 'Barlow', sans-serif;
+    flex-wrap: wrap;
+    flex-direction: column;
+    float: left;
+    background: linear-gradient(yellow ,rgb(0, 255, 0));
+}
+
+.topblock img{
+    height: 200px;
+    width: 300px;
+    float: left;
+
+}
+
+.topblock{
+    height: 200px;
+    font-family: 'Barlow', sans-serif;
+    background: linear-gradient(rgb(160, 248, 29),yellow 60%)
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    height: 50px;
+    margin-top: 20px;
+    border-top: 20px;
+    border-top-width: 50px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+big{
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.topblock p{
+    font-size: 30px;
+}
+
+.rightblock{
+    font-family: 'Barlow', sans-serif;
+    float: right;
+    width: 490px;
+    height: 890px;
+
+}
+
+h3{
+    float: left;
+    margin-left: 50px;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.leftblock p{
+    height: 50px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+h4{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.rightblock p{
+    margin-top: 80px;
+    font-size: 25px;
+}
+
+h5{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+h6{
+    margin-top: 70px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a{
+    font-size: 30px;
+}
+
+footer p{
+    font-size: 20px;
+    text-align: right;
+}
+
+.list{
+    font-size: 20px;
+}
