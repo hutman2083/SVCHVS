@@ -1,0 +1,35 @@
+.block1{
+    width: 1440px;
+    height: 60px;
+    background-color: white;
+    text-align: center;  
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+ 
+}
+
+.allblocks{
+    width: 1440px;
+    height: 3630px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 6;
+}
+
+.block1 p{
+    
+    font-size: 32px;
+    margin-bottom: 32px;
+    margin-top: 12px;
+    color: rgb(105,185,225,100%);
+    grid-column-start:1 ;
+}
+
+.block1 a{
+    grid-column-start:2 ;
+    grid-column-end:3 ;
+}
+
