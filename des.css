@@ -1,12 +1,16 @@
+*{
+    font-family: 'Barlow', sans-serif;
+}
+
 .block1{
     width: 1440px;
     height: 60px;
-    background-color: white;
     text-align: center;  
     display: grid;
     grid-column-start: 1;
     grid-column-end: 3;
- 
+    border-color: black;
+    
 }
 
 .allblocks{
@@ -14,9 +18,6 @@
     height: 3630px;
     text-align: center;
     margin: auto;
-    display: grid;
-    grid-column-start: 1;
-    grid-column-end: 6;
 }
 
 .block1 p{
@@ -26,10 +27,82 @@
     margin-top: 12px;
     color: rgb(105,185,225,100%);
     grid-column-start:1 ;
+    margin-right: 800px;
+    margin-left: 15px;
 }
 
 .block1 a{
     grid-column-start:2 ;
     grid-column-end:3 ;
+    margin-top: 20px;
+    color: rgb(0,130,243);
+
 }
 
+.block2{
+    background-image: url(ocr.hgs6d.jpeg);
+    height: 585px;
+    width: 1440px;
+}
+
+.block2 button{
+    background: none;
+    background-color:rgb(105,185,225,100%);
+    color: white;
+    border-color: rgb(105,185,225,100%);
+    border-radius: 4px;
+    border-width: 1px;
+    width: 138px;
+    height: 45px;
+    margin-top: 350px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.block2 p{
+    font-size: 60px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 180px;
+    color: white;
+}
+
+.block3{
+    width: 1440px;
+    height: 583px;
+    position: absolute;
+}
+
+.block3 h1{
+    font-size: 30px;
+    margin-top: 50px;
+    word-spacing: 10px;
+}
+
+.block3 p{
+    font-size: 17px;
+    word-spacing: 7px;
+}
+
+h2{
+    font-size: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+h3{
+    font-size: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+h4{
+    font-size: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.block4{
+    height: 842px;
+    width: 1440px;
+}
