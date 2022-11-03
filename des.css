@@ -316,7 +316,7 @@ border-bottom: 1px solid rgb(213,213,224,100%);
     grid-row-start:2;
     border-bottom: solid 1px rgb(213,213,224,100%);
     width: 300px;
-    
+    height: 20px;
 }
 
 .block5 .bottomblock .rightblock .two{
@@ -324,24 +324,28 @@ border-bottom: 1px solid rgb(213,213,224,100%);
     grid-row-start: 3;
     grid-row-end: 3;
     border-bottom: solid 1px rgb(213,213,224,100%);
+    height: 20px;
 }
 
 .block5 .bottomblock .rightblock .three{
     grid-column-end: 2;
     grid-row-start: 4;
     border-bottom: solid 1px rgb(213,213,224,100%);
+    height: 20px;
 }
 
 .block5 .bottomblock .rightblock .four{
     grid-column-start: 1;
     grid-row-start: 5;
     border-bottom: solid 1px rgb(213,213,224,100%);
+    height: 20px;
 }
 
 .block5 .bottomblock .rightblock .five{
     grid-column-start: 1;
     grid-row-start: 6;
     border-bottom: solid 1px rgb(213,213,224,100%);
+    height: 20px;
 }
 
 .block5 .bottomblock .rightblock #one{
